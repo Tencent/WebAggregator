@@ -1,0 +1,41 @@
+anthropic>=0.37.1
+datasets>=2.21.0
+huggingface_hub>=0.23.4
+langchain
+langchain_openai
+openai>=1.52.2
+transformers>=4.46.0
+numexpr>=2.10.1
+numpy>=2.1.2
+pandas>=2.2.3
+scikit-learn
+scipy
+beautifulsoup4>=4.12.3
+ddgs
+google_search_results>=2.4.2
+googlesearch-python
+helium
+Requests>=2.32.3
+selenium
+pdfminer.six==20200517
+mammoth>=1.8.0         # .docx to HTML
+openpyxl               # For .xlsx files (reading/writing)
+python-pptx>=1.0.2     # For .pptx files
+xlrd                   # For older .xls files (reading)
+audioop-lts<1.0; python_version >= "3.13"
+pydub
+SpeechRecognition
+markdownify>=0.13.1    
+Pillow>=11.0.0         
+puremagic>=1.28        
+fire                   
+nest-asyncio           
+pathvalidate>=3.2.1    
+python-dotenv>=1.0.1   
+rich                   
+tqdm       
+biopython
+chess
+pubchempy
+sympy
+youtube_transcript_api>=0.6.2

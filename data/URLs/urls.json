@@ -1,0 +1,34 @@
+[
+    {
+        "question": "{\"title\": \"The Impact of Being Wrongly Accused of Abuse in Occupations of ...\", \"href\": \"https://www.law.ox.ac.uk/sites/files/oxlaw/the_impact_of_being_wrongly_accused_of_abuse_hoyle_speechley_burnett_final_26_may.pdf\", \"body\": \"Professor Carolyn Hoyle has expertise on victims in criminal justice and on various aspects of miscarriages of justice. She has recently completed an ...\"}",
+        "task_id": -7312820999761576042,
+        "true_answer": "",
+        "file_name": "",
+        "title": "The Impact of Being Wrongly Accused of Abuse in Occupations of ...",
+        "task": "url-qa"
+    },
+    {
+        "question": "{\"title\": \"Endocrine Abstracts\", \"href\": \"https://www.endocrine-abstracts.org/media/phodjqul/sfeendocrineupdate2024abstractbook.pdf\", \"body\": \"She had been reviewed in weight loss clinic 6 months prior, however no ... 60-year-old male patient presented with a neck lump which had been present for.\"}",
+        "task_id": 4735160765939956421,
+        "true_answer": "",
+        "file_name": "",
+        "title": "Endocrine Abstracts",
+        "task": "url-qa"
+    },
+    {
+        "question": "{\"title\": \"Driven To Drink: Antidepressants and Cravings for Alcohol - RxISK\", \"href\": \"https://rxisk.org/driven-to-drink-antidepressants-and-cravings-for-alcohol/\", \"body\": \"Oct 15, 2012 ... First I googled alcohol cravings induced by paroxetine and then by citalopram. The first web pages I came across were from the depression forums ...\"}",
+        "task_id": 1104167317254176874,
+        "true_answer": "",
+        "file_name": "",
+        "title": "Driven To Drink: Antidepressants and Cravings for Alcohol - RxISK",
+        "task": "url-qa"
+    },
+    {
+        "question": "{\"title\": \"Getting Started in Psychiatry: A guide for junior registrars\", \"href\": \"https://www.wslhd.health.nsw.gov.au/ArticleDocuments/2173/REG_HANDBOOK_Getting%20started%20in%20psychiatry_FINAL_VKumar.pdf.aspx\", \"body\": \"Individuals with borderline personality disorder, for instance, have higher rates of mood disorders, anxiety disorders, and psychotic disorders compared to the ...\"}",
+        "task_id": -8423201993460934438,
+        "true_answer": "",
+        "file_name": "",
+        "title": "Getting Started in Psychiatry: A guide for junior registrars",
+        "task": "url-qa"
+    }
+]
