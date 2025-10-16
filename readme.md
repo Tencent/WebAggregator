@@ -35,7 +35,7 @@ Follow these steps to get started:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Tencent/WebAggregator
 ```
 
 ### 2️⃣ Install Dependencies
