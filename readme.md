@@ -2,7 +2,7 @@
 
 ## 🌟 Introduction
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.00414-b31b1b.svg)](https://arxiv.org/abs/) [![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data:WebAggregatorQA-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/Ray121381/WebAggregatorQA) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model:WebAggregator-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/Ray121381/WebAggregator) 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14438-b31b1b.svg)](https://arxiv.org/abs/2510.14438) [![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data:WebAggregatorQA-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/Ray121381/WebAggregatorQA) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model:WebAggregator-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/Ray121381/WebAggregator) 
 
 ![](assets/perfm-bar.svg)
 
