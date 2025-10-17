@@ -60,10 +60,15 @@ pip install -r requirements.txt
 
 ### ⚙️ Configuration
 
+​Set the configuration in the following files:​​
+
+- ​`./config.py`: Contains settings for your agent's foundation LLM, the LLMs for specific tools, and dataset paths.
+- `./model_list.py`: This file is used to implement the method for calling your foundation models (e.g., via vLLM, LiteLLM, or Azure). It calls the models that are configured in `./config.py`. We provide an example implementation. For more details, please refer to the smolagents repository. 
+
+
+The function of others:
 - `./web_tools.py`: Tools for agent. You could modify it to suit your needs.
 - `./run_agent.py`: The implemented agent.
-- `./config.py`: Configure your agent’s foundation LLM, and LLMs supporting specific tools.
-- `./model_list.py`: Implement the way to call your agent foundations, e.g., vLLM, liteLLM, or Azure. We provide an example, and more details could be found from the smolagents repo.
 - `./run`: Scripts for running the agent.
 - `./data`: Input data for QA construction (URLs), evaluation (Benchmarks) and traj sampling (QAs).
 
@@ -116,11 +121,14 @@ bash run/traj_sampling.sh
 ## Citation
 
 ```bibtex
-@misc{webagg,
-  author = {},
-  title = {Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents},
-  year = {2025},
-  howpublished = {}
+@misc{wang2025exploreevolvescalingevolved,
+      title={Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive Online Exploration for Deep Research Agents}, 
+      author={Rui Wang and Ce Zhang and Jun-Yu Ma and Jianshu Zhang and Hongru Wang and Yi Chen and Boyang Xue and Tianqing Fang and Zhisong Zhang and Hongming Zhang and Haitao Mi and Dong Yu and Kam-Fai Wong},
+      year={2025},
+      eprint={2510.14438},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.14438}, 
 }
 
 @misc{fang2025cognitivekernelpro,
