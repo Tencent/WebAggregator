@@ -2,7 +2,7 @@
 
 ## 🌟 Introduction
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.14438-b31b1b.svg)](https://arxiv.org/abs/2510.14438) [![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data:WebAggregatorQA-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/Ray121381/WebAggregatorQA) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model:WebAggregator%208B-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/CognitiveKernel/WebAggregator-8B) 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14438-b31b1b.svg)](https://arxiv.org/abs/2510.14438) [![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data:WebAggregatorQA-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/CognitiveKernel/WebAggregatorQA) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model:WebAggregator%208B-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/CognitiveKernel/WebAggregator-8B) 
 [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model:WebAggregator%2032B-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/CognitiveKernel/WebAggregator-32B) 
 
 ![](assets/perfm-bar.svg)
@@ -98,7 +98,7 @@ This command evaluates your specified model and benchmark. After evaluation, it 
 
 Start building automatic web agent data:
 
-1. Download our collected URLs 👉 [URLs](https://huggingface.co/datasets/Ray121381/WebAggregatorQA) **or** gather URLs related to your domains of interest!
+1. Download our collected URLs 👉 [URLs](https://huggingface.co/datasets/CognitiveKernel/WebAggregatorQA) **or** gather URLs related to your domains of interest!
 
 2. Then, run the following command to collect the data.
 
@@ -110,7 +110,7 @@ bash run/QA_building.sh
 
 #### 3️⃣ Trajectory Sampling
 
-Training trajectories for fine-tuning your agent foundation models are available at 👉 [WebAggregatorQA](https://huggingface.co/datasets/Ray121381/WebAggregatorQA). Sample data can be found in `./data/train-samples` for initial testing purposes.
+Training trajectories for fine-tuning your agent foundation models are available at 👉 [WebAggregatorQA](https://huggingface.co/datasets/CognitiveKernel/WebAggregatorQA). Sample data can be found in `./data/train-samples` for initial testing purposes.
 
 ```bash
 bash run/traj_sampling.sh
