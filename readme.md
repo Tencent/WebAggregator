@@ -119,6 +119,11 @@ bash run/traj_sampling.sh
 
 ---
 
+## Friendly links to other works from Tencent AI Lab
+
+- Deep Research Agent framework: [Cognitive Kernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro)
+- Agent Self-Evolving Research, including [WebEvolver, WebCoT](https://github.com/Tencent/SelfEvolvingAgent), [WebVoyager](https://github.com/MinorJerry/WebVoyager), [OpenWebVoyager](https://github.com/MinorJerry/OpenWebVoyager).
+
 ## Citation
 
 ```bibtex
